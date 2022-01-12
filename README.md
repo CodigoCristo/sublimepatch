@@ -39,5 +39,16 @@ https://download.sublimetext.com/sublime_merge_build_2068_x64_setup.exe
 
 > For Linux
 
+- You must have GIT installed on your linux system
+
+- Instructions
+
+```
+git clone https://github.com/CodigoCristo/sublimepatch.git
+cd sublimepatch
+cd for\ linux
+sudo chmod +x run_sudo_linux.bin
+sudo ./run_sudo_linux.bin
+```
 
 ![image](https://user-images.githubusercontent.com/34531165/149188046-a181ae73-82d2-49f4-b7e7-e9472c196743.png)
