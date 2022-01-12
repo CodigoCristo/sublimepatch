@@ -2,6 +2,12 @@
 
 This site was built using [GitHub Pages](https://gist.github.com/maboloshi/feaa63c35f4c2baab24c9aaf9b3f4e47).
 
+## Download Windows Sublime Text Build 4126 & Sublime Merge Build 2068
+
+https://download.sublimetext.com/sublime_text_build_4126_x64_setup.exe
+
+https://download.sublimetext.com/sublime_merge_build_2068_x64_setup.exe
+
 ## Crack Windows Sublime Text Build 4126 & Sublime Merge Build 2068
 
 > For Windows
