@@ -4,7 +4,7 @@ This site was built using [GitHub Pages](https://gist.github.com/maboloshi/feaa6
 
 ## Crack Windows Sublime Text Build 4126 & Sublime Merge Build 2068
 
-> For Windows - Sublime Text Build 4126
+> For Windows
 
 - Open folder for windows
 
