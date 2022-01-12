@@ -34,3 +34,7 @@ https://download.sublimetext.com/sublime_merge_build_2068_x64_setup.exe
 
 ![image](https://user-images.githubusercontent.com/34531165/149060832-399f006a-3a81-4611-b54f-580b15c13292.png)
 
+
+## Crack Linux Sublime Text Build 4126 & Sublime Merge Build 2068
+
+> For Linux
