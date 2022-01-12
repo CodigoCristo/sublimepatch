@@ -1,0 +1,71 @@
+    FILE * pFile;
+    pFile = fopen("example.txt", "wb");
+    fputs("This is an apple.", pFile);
+    fseek(pFile, 9, SEEK_SET);
+    fputs("H1└├", pFile);
+    fclose(pFile); 
+
+
+
+
+
+	FILE *f = fopen( "example.txt", "r+b" );
+	fseek( f, 0x00000002, SEEK_SET ); // move to offest 3 from begin of file
+	unsigned char newByte = 0xC3;
+	fwrite( &newByte, sizeof( newByte ), 1, f );
+	fclose( f );
+
+
+
+
+
+	FILE *crack = fopen( "\"C:\\Program Files\\Sublime Text\\sublime_text.exe\"", "r+b" );
+	fseek( crack, 0x000A7214, SEEK_SET ); // Se mueve a la dirección o numero espacios desde el comienzo del archivo
+    fputs("\x48\x31\xC0\xC3", crack);
+
+    fseek( crack, 0x0000711A, SEEK_SET ); 
+    fputs("\x90\x90\x90\x90\x90", crack);
+
+    fseek( crack, 0x00007133, SEEK_SET ); 
+    fputs("\x90\x90\x90\x90\x90", crack);
+
+    fseek( crack, 0x000A8D53, SEEK_SET ); 
+    fputs("\x48\x31\xC0\x48\xFF\xC0\xC3", crack);
+
+    fseek( crack, 0x000A6F0F, SEEK_SET ); 
+    fputs("\xC3", crack);
+
+    fseek( crack, 0x00000400, SEEK_SET ); 
+    fputs("\xC3", crack);
+    
+	fclose( crack );
+
+	system("PAUSE");
+
+
+
+
+
+
+
+
+    FILE *fp = fopen("out1","w");
+    if (fp == NULL) {
+        perror("fopen failed");
+        exit(1);
+    }
+
+    int a1[] = { 0x12345678, 0x33220011, 0x0, 0x445566 };
+    char a2[] =  { 0x22, 0x33, 0x0, 0x66 };
+    char a3[] = "Hello\x0World";
+
+    // this writes the whole array
+    fwrite(a1, sizeof(a1[0]), 4, fp);
+    // so does this
+    fwrite(a2, sizeof(a2[0]), 4, fp);
+    // this does not write the whole array -- only "Hello" is written
+    fprintf(fp, "%s\n", a3);
+    // but this does
+    fwrite(a3, sizeof(a3[0]), 12, fp);
+    fclose(fp);
+
