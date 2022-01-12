@@ -13,3 +13,5 @@ This site was built using [GitHub Pages](https://gist.github.com/maboloshi/feaa6
 - Run in administrator mode
 
 ![image](https://user-images.githubusercontent.com/34531165/149059823-ea4a511f-847e-4966-8154-7459f894e464.png)
+
+![image](https://user-images.githubusercontent.com/34531165/149060190-f299718f-03bf-4b7f-b7e5-6323b346b7d4.png)
