@@ -18,12 +18,11 @@ https://download.sublimetext.com/sublime_merge_build_2068_x64_setup.exe
 
 - Run in administrator mode
 
+![image](https://user-images.githubusercontent.com/34531165/149059823-ea4a511f-847e-4966-8154-7459f894e464.png)
 
 ![image](https://user-images.githubusercontent.com/34531165/149416233-e94315ba-6970-4204-bd01-66d8fefb6425.png)
 
 ![image](https://user-images.githubusercontent.com/34531165/149416210-c6350c3d-08a1-4607-904d-7afa6ecdf601.png)
-
-![image](https://user-images.githubusercontent.com/34531165/149059823-ea4a511f-847e-4966-8154-7459f894e464.png)
 
 ![image](https://user-images.githubusercontent.com/34531165/149060190-f299718f-03bf-4b7f-b7e5-6323b346b7d4.png)
 
