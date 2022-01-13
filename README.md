@@ -34,6 +34,21 @@ https://download.sublimetext.com/sublime_merge_build_2068_x64_setup.exe
 
 ![image](https://user-images.githubusercontent.com/34531165/149060832-399f006a-3a81-4611-b54f-580b15c13292.png)
 
+- Run in administrator mode Ubuntu
+
+![image](https://user-images.githubusercontent.com/34531165/149259394-cba6e67d-dd67-4f96-95c5-dffc1f501d9c.png)
+
+![image](https://user-images.githubusercontent.com/34531165/149259412-a587290f-7a42-4a7b-9464-7ccdbf4d72f3.png)
+
+![image](https://user-images.githubusercontent.com/34531165/149259426-dc1c9753-52f6-40b7-a716-ffcd748a520a.png)
+
+![image](https://user-images.githubusercontent.com/34531165/149259458-45ad173b-23fc-4685-baf7-0c4f5ed8150e.png)
+
+![image](https://user-images.githubusercontent.com/34531165/149259475-b3f8c082-ac6c-47d0-847b-b2414446dd6e.png)
+
+
+
+
 
 ## Crack Linux Sublime Text Build 4126 & Sublime Merge Build 2068
 
