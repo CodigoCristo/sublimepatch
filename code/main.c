@@ -392,7 +392,7 @@ void clean()
 void patch_sublime4134 () 
 {
 
-    system("cp /opt/sublime_text/sublime_text . ");
+    system("cp /opt/sublime_text/sublime_text '.' ");
 
     FILE *crack = fopen( "sublime_text", "r+b" );
     fseek( crack, 0x003A1BF4, SEEK_SET ); 
@@ -442,7 +442,7 @@ void patch_sublime4134 ()
 void patch_sublime4126 () 
 {
 
-    system("cp /opt/sublime_text/sublime_text . ");
+    system("cp /opt/sublime_text/sublime_text '.' ");
 
     FILE *crack = fopen( "sublime_text", "r+b" );
     fseek( crack, 0x00385492, SEEK_SET ); 
@@ -491,7 +491,7 @@ void patch_sublime4126 ()
 void patch_merge2074 () 
 {
 
-    system("cp /opt/sublime_merge/sublime_merge . ");
+    system("cp /opt/sublime_merge/sublime_merge '.' ");
 
     char b1[] = "\x48\xC7\xC0\x19\x01\x00\x00\xC3";
     char b2[] = "\x90\x90\x90\x90\x90";
@@ -546,7 +546,7 @@ void patch_merge2074 ()
 void patch_merge2073 () 
 {
 
-    system("cp /opt/sublime_merge/sublime_merge . ");
+    system("cp /opt/sublime_merge/sublime_merge '.' ");
 
     char b1[] = "\x48\xC7\xC0\x19\x01\x00\x00\xC3";
     char b2[] = "\x90\x90\x90\x90\x90";
@@ -602,7 +602,7 @@ void patch_merge2073 ()
 void patch_merge2068 () 
 {
 
-    system("cp /opt/sublime_merge/sublime_merge . ");
+    system("cp /opt/sublime_merge/sublime_merge '.' ");
 
     char b1[] = "\x48\xC7\xC0\x19\x01\x00\x00\xC3";
     char b2[] = "\x90\x90\x90\x90\x90";
