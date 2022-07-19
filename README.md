@@ -55,6 +55,12 @@ cd for\ linux
 sudo chmod +x run_sudo_linux.bin
 sudo ./run_sudo_linux.bin
 ```
+In case the previous steps not work, try to recompile the source code using the gcc version of your os.
+```
+$ cd code
+$ gcc main.c -o ../code/run_sudo_linux.bin
+```
+
 
 ![image](https://user-images.githubusercontent.com/34531165/149188046-a181ae73-82d2-49f4-b7e7-e9472c196743.png)
 
