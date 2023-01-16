@@ -5,7 +5,7 @@
     fputs("H1└├", pFile);
     fclose(pFile); 
 
-
+sudo pacman -Sddw bash --noconfirm | grep '? \[' | cut -d"[" -f2 | cut -d"/" -f1 
 
 
 
