@@ -2,11 +2,14 @@
 
 This site was built using [GitHub Pages](https://gist.github.com/maboloshi/feaa63c35f4c2baab24c9aaf9b3f4e47).
 
-## Download Windows Sublime Text Build 4126 & Sublime Merge Build 2068
+## Download Arch Linux Sublime Text Stable 4143 DEV 4147 & Sublime Merge Stable 2079
 
-https://download.sublimetext.com/sublime_text_build_4126_x64_setup.exe
+```
+yay -S sublime-text-4 --confirm --nocleanmenu --nodiffmenu
+yay -S sublime-text-dev --confirm --nocleanmenu --nodiffmenu
+yay -S sublime-merge --confirm --nocleanmenu --nodiffmenu
 
-https://download.sublimetext.com/sublime_merge_build_2068_x64_setup.exe
+```
 
 ## Crack Windows Sublime Text Build 4126 & Sublime Merge Build 2068
 
