@@ -33,7 +33,7 @@ gcc main.c -o main
 sudo ./main
 ```
 
-![image](https://user-images.githubusercontent.com/34531165/149188046-a181ae73-82d2-49f4-b7e7-e9472c196743.png)
+![image](https://github.com/CodigoCristo/sublimepatch/blob/main/capturas/Captura%20desde%202023-01-16%2002-12-51.png)
 
 
 - Run in administrator mode Ubuntu
