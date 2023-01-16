@@ -48,6 +48,10 @@ sudo ./main
 - Enter any key(can be anyone) - Read the code if you have any doubt
 
 
+![image](https://github.com/CodigoCristo/sublimepatch/blob/main/capturas/Captura%20desde%202023-01-16%2002-25-41.png)
+
+![image](https://github.com/CodigoCristo/sublimepatch/blob/main/capturas/Captura%20desde%202023-01-16%2002-25-46.png)
+
 ![image](https://github.com/CodigoCristo/sublimepatch/blob/main/capturas/Captura%20desde%202023-01-16%2002-09-25.png)
 
 ![image](https://github.com/CodigoCristo/sublimepatch/blob/main/capturas/Captura%20desde%202023-01-16%2002-08-26.png?raw=true)
