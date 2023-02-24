@@ -14,66 +14,54 @@ https://download.sublimetext.com/sublime_merge_build_2068_x64_setup.exe
 
 - Open folder for windows
 
-![image](https://user-images.githubusercontent.com/34531165/149059843-9e279f2e-1877-4835-bfc6-1888891693a0.png)
+![image](https://github.com/7exx/sublimepatch/blob/main/capturas/1.png?raw=true)
 
 - Run in administrator mode
 
-![image](https://user-images.githubusercontent.com/34531165/149059823-ea4a511f-847e-4966-8154-7459f894e464.png)
+![image](https://github.com/7exx/sublimepatch/blob/main/capturas/2.png?raw=true)
 
-![image](https://user-images.githubusercontent.com/34531165/149416233-e94315ba-6970-4204-bd01-66d8fefb6425.png)
+![image](https://github.com/7exx/sublimepatch/blob/main/capturas/3.png?raw=true)
 
-![image](https://user-images.githubusercontent.com/34531165/149416210-c6350c3d-08a1-4607-904d-7afa6ecdf601.png)
+![image](https://github.com/7exx/sublimepatch/blob/main/capturas/4.png?raw=true)
 
-![image](https://user-images.githubusercontent.com/34531165/149060190-f299718f-03bf-4b7f-b7e5-6323b346b7d4.png)
+![image](https://github.com/7exx/sublimepatch/blob/main/capturas/5.png?raw=true)
 
-![image](https://user-images.githubusercontent.com/34531165/149060352-4bc2f6d4-9d6d-4a39-b3bb-4cfc323b732d.png)
+![image](https://github.com/7exx/sublimepatch/blob/main/capturas/7.png?raw=true)
 
-![image](https://user-images.githubusercontent.com/34531165/149060424-4f0892ee-d682-41f7-985b-8531056c4c95.png)
+![image](https://github.com/7exx/sublimepatch/blob/main/capturas/8.png?raw=true)
 
-![image](https://user-images.githubusercontent.com/34531165/149060440-efae20af-715a-45ef-a77e-bbf62a8dea78.png)
+![image](https://github.com/7exx/sublimepatch/blob/main/capturas/9.png?raw=true)
 
-![image](https://user-images.githubusercontent.com/34531165/149060802-633f9f81-d73a-499b-bcf1-c5973f7da2a6.png)
-
-![image](https://user-images.githubusercontent.com/34531165/149060819-8a3c30db-26ae-4d47-9d42-05cd0f85b129.png)
-
-![image](https://user-images.githubusercontent.com/34531165/149060832-399f006a-3a81-4611-b54f-580b15c13292.png)
-
-
-
-## Crack Linux Sublime Text Build 4126 & Sublime Merge Build 2068
-
-> For Linux
+## Crack Linux Sublime Text Stable 4143 DEV 4147 & Sublime Merge Stable 2079
 
 - You must have GIT installed on your linux system
 
 - Instructions
 
 ```
-git clone https://github.com/CodigoCristo/sublimepatch.git
-cd sublimepatch
-cd for\ linux
-sudo chmod +x run_sudo_linux.bin
-sudo ./run_sudo_linux.bin
-```
-In case the previous steps not work, try to recompile the source code using the gcc version of your os.
-```
-$ cd code
-$ gcc main.c -o ../code/run_sudo_linux.bin
+$ ./build.sh
 ```
 
+![image](https://github.com/CodigoCristo/sublimepatch/blob/main/capturas/new/1.png?raw=true)
 
-![image](https://user-images.githubusercontent.com/34531165/149188046-a181ae73-82d2-49f4-b7e7-e9472c196743.png)
+### Compile the executable, run as administrator in Linux
 
+![image](https://github.com/CodigoCristo/sublimepatch/blob/main/capturas/new/2.png?raw=true)
 
-- Run in administrator mode Ubuntu
+![image](https://github.com/CodigoCristo/sublimepatch/blob/main/capturas/new/3.png?raw=true)
 
-![image](https://user-images.githubusercontent.com/34531165/149259394-cba6e67d-dd67-4f96-95c5-dffc1f501d9c.png)
+![image](https://github.com/CodigoCristo/sublimepatch/blob/main/capturas/new/4.png?raw=true)
 
-![image](https://user-images.githubusercontent.com/34531165/149259412-a587290f-7a42-4a7b-9464-7ccdbf4d72f3.png)
+### Enter any key(can be anyone) - Read the code if you have any doubt
 
-![image](https://user-images.githubusercontent.com/34531165/149259426-dc1c9753-52f6-40b7-a716-ffcd748a520a.png)
+![image](https://github.com/CodigoCristo/sublimepatch/blob/main/capturas/new/5.png?raw=true)
 
-![image](https://user-images.githubusercontent.com/34531165/149259458-45ad173b-23fc-4685-baf7-0c4f5ed8150e.png)
+![image](https://github.com/CodigoCristo/sublimepatch/blob/main/capturas/new/6.png?raw=true)
 
-![image](https://user-images.githubusercontent.com/34531165/149259475-b3f8c082-ac6c-47d0-847b-b2414446dd6e.png)
+![image](https://github.com/CodigoCristo/sublimepatch/blob/main/capturas/new/7.png?raw=true)
+
+![image](https://github.com/CodigoCristo/sublimepatch/blob/main/capturas/new/8.png?raw=true)
+
+![image](https://github.com/CodigoCristo/sublimepatch/blob/main/capturas/new/9.png?raw=true)
+
 
