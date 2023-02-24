@@ -42,26 +42,26 @@ https://download.sublimetext.com/sublime_merge_build_2068_x64_setup.exe
 $ ./build.sh
 ```
 
-![image](https://github.com/CodigoCristo/sublimepatch/blob/main/capturas/new/1.png?raw=true)
+![image](https://github.com/7exx/sublimepatch/blob/main/capturas/new/1.png?raw=true)
 
 ### Compile the executable, run as administrator in Linux
 
-![image](https://github.com/CodigoCristo/sublimepatch/blob/main/capturas/new/2.png?raw=true)
+![image](https://github.com/7exx/sublimepatch/blob/main/capturas/new/2.png?raw=true)
 
-![image](https://github.com/CodigoCristo/sublimepatch/blob/main/capturas/new/3.png?raw=true)
+![image](https://github.com/7exx/sublimepatch/blob/main/capturas/new/3.png?raw=true)
 
-![image](https://github.com/CodigoCristo/sublimepatch/blob/main/capturas/new/4.png?raw=true)
+![image](https://github.com/7exx/sublimepatch/blob/main/capturas/new/4.png?raw=true)
 
 ### Enter any key(can be anyone) - Read the code if you have any doubt
 
-![image](https://github.com/CodigoCristo/sublimepatch/blob/main/capturas/new/5.png?raw=true)
+![image](https://github.com/7exx/sublimepatch/blob/main/capturas/new/5.png?raw=true)
 
-![image](https://github.com/CodigoCristo/sublimepatch/blob/main/capturas/new/6.png?raw=true)
+![image](https://github.com/7exx/sublimepatch/blob/main/capturas/new/6.png?raw=true)
 
-![image](https://github.com/CodigoCristo/sublimepatch/blob/main/capturas/new/7.png?raw=true)
+![image](https://github.com/7exx/sublimepatch/blob/main/capturas/new/7.png?raw=true)
 
-![image](https://github.com/CodigoCristo/sublimepatch/blob/main/capturas/new/8.png?raw=true)
+![image](https://github.com/7exx/sublimepatch/blob/main/capturas/new/8.png?raw=true)
 
-![image](https://github.com/CodigoCristo/sublimepatch/blob/main/capturas/new/9.png?raw=true)
+![image](https://github.com/7exx/sublimepatch/blob/main/capturas/new/9.png?raw=true)
 
 
