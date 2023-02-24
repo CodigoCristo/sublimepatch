@@ -76,7 +76,6 @@ void clean()
 
 void patch_sublime4143 () 
 {
-
     system("cp /opt/sublime_text/sublime_text '.' ");
 
     FILE *crack = fopen( "sublime_text", "r+b" );
@@ -120,13 +119,11 @@ void patch_sublime4143 ()
     msg_end () ;
     system("echo '\nPress enter to continue...' &&  read line");
     system("clear; exit");
-
 }
 
 
 void patch_sublimeDEV () 
 {
-
     system("cp /opt/sublime_text/sublime_text '.' ");
 
     FILE *crack = fopen( "sublime_text", "r+b" );
@@ -170,13 +167,11 @@ void patch_sublimeDEV ()
     msg_end () ;
     system("echo '\nPress enter to continue...' &&  read line");
     system("clear; exit");
-
 }
 
 
 void patch_merge2079 () 
 {
-
     system("cp /opt/sublime_merge/sublime_merge '.' ");
 
     char b1[] = "\x48\x31\xC0\xC3";
@@ -227,7 +222,6 @@ void patch_merge2079 ()
     msg_end () ;
     system("echo 'Press enter to continue...' &&  read line");
     system("exit");
-
 }
 
 
