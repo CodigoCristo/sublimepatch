@@ -36,10 +36,10 @@ https://download.sublimetext.com/sublime_merge_build_2068_x64_setup.exe
 
 - You must have GIT installed on your linux system
 
-- Instructions
+- Instructions: use ***make*** or ***make old*** to build for different versions
 
 ```
-$ ./build.sh
+$ make (old)
 ```
 
 ![image](https://github.com/7exx/sublimepatch/blob/main/capturas/new/1.png?raw=true)
