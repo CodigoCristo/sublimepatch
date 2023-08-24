@@ -54,5 +54,5 @@ sudo ./main
 
 ![image](https://github.com/CodigoCristo/sublimepatch/blob/main/capturas/text.png?raw=true)
 
-![image](https://github.com/CodigoCristo/sublimepatch/blob/main/capturas/Captura%20desde%202023-01-16%2002-08-26.png?raw=true)
+![image](https://github.com/CodigoCristo/sublimepatch/blob/main/capturas/merge.png?raw=true)
 
