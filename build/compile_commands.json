@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/cristo/Descargas/sublimepatch/build",
-  "command": "/usr/bin/gcc -O3 -DNDEBUG -o CMakeFiles/sublimepatch.dir/src/main.c.o -c /home/cristo/Descargas/sublimepatch/src/main.c",
-  "file": "/home/cristo/Descargas/sublimepatch/src/main.c",
-  "output": "CMakeFiles/sublimepatch.dir/src/main.c.o"
-}
-]
