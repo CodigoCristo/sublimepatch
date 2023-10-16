@@ -33,17 +33,6 @@ chmod +x install.sh
 ./install.sh
 ```
 
-- Or also
-
-```
-cd build
-```
-```
-make
-```
-```
-sudo ./sublimepatch
-```
 
 
 - Compile the executable, run as administrator in Linux
