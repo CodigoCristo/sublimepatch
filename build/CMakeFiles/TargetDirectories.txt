@@ -1,0 +1,3 @@
+/home/cristo/Descargas/sublimepatch/build/CMakeFiles/sublimepatch.dir
+/home/cristo/Descargas/sublimepatch/build/CMakeFiles/edit_cache.dir
+/home/cristo/Descargas/sublimepatch/build/CMakeFiles/rebuild_cache.dir

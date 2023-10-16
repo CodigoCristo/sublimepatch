@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/sublimepatch.dir/src/main.c.o -o sublimepatch 
