@@ -1,7 +1,5 @@
 // CRACK PARA SUBLIME TEXT 4
 // Create for Codigo Cristo
-//https://gist.github.com/maboloshi/feaa63c35f4c2baab24c9aaf9b3f4e47#file-other-cracking-methods-md
-
 
 #include <stdio.h>
 #include <stdlib.h>
