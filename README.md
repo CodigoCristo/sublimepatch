@@ -1,8 +1,8 @@
-# Sublime Text Stable 4143 DEV 4147 & Sublime Merge Stable 2079
+# Sublime Text Stable 4152 DEV 4156 & Sublime Merge Stable 2091
 
 This site was built using [GitHub Pages](https://gist.github.com/maboloshi/feaa63c35f4c2baab24c9aaf9b3f4e47).
 
-## Download Arch Linux Sublime Text Stable 4152 DEV 4154 & Sublime Merge Stable 2090
+## Download Arch Linux Sublime Text Stable 4152 DEV 4156 & Sublime Merge Stable 2091
 
 ```
 yay -S sublime-text-4 --confirm --nocleanmenu --nodiffmenu
@@ -15,7 +15,7 @@ yay -S sublime-merge --confirm --nocleanmenu --nodiffmenu
 ```
 
 
-## Crack Linux Sublime Text Stable 4152 DEV 4154 & Sublime Merge Stable 2090
+## Crack Linux Sublime Text Stable 4152 DEV 4156 & Sublime Merge Stable 2091
 
 > For Linux
 
@@ -27,11 +27,24 @@ yay -S sublime-merge --confirm --nocleanmenu --nodiffmenu
 git clone https://github.com/CodigoCristo/sublimepatch.git && cd sublimepatch
 ```
 ```
-gcc main.c -o main
+chmod +x install.sh
 ```
 ```
-sudo ./main
+./install.sh
 ```
+
+- Or also
+
+```
+cd build
+```
+```
+make
+```
+```
+sudo ./sublimepatch
+```
+
 
 ![image](https://github.com/CodigoCristo/sublimepatch/blob/main/capturas/Captura%20desde%202023-01-16%2002-12-51.png)
 
