@@ -46,9 +46,6 @@ sudo ./sublimepatch
 ```
 
 
-![image](https://github.com/CodigoCristo/sublimepatch/blob/main/capturas/Captura%20desde%202023-01-16%2002-12-51.png)
-
-
 - Compile the executable, run as administrator in Linux
 
 ![image](https://github.com/CodigoCristo/sublimepatch/blob/main/capturas/Captura%20desde%202023-01-16%2002-13-52.png)
